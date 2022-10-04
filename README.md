@@ -45,7 +45,7 @@ What are some common mistakes?
 
 Improved design:
 
-![Improved Design](https://imgur.io/zSNcPCZ)
+![Improved Design](![alt text](https://github.com/bchris24/[p1.Chris.Brandt/blob/main/9_28_22, 11_24 PM Microsoft Lens?raw=true)
 
 Design improvements:
 
