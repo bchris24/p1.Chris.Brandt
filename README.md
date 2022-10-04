@@ -6,7 +6,7 @@ Please use GitHub Pages to see webpage.
 
 Current layout:
 
-![](RackMultipart20221004-1-bvkvyw_html_6060b3a2eeb42cca.png)
+![Current Layout](Screenshot 2022-09-29 165654.png)
 
 Issues with the current design:
 
