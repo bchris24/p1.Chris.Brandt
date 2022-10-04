@@ -6,7 +6,7 @@ Please use GitHub Pages to see webpage.
 
 Current layout:
 
-![Current Layout]()
+![Current Layout](current.png)
 
 Issues with the current design:
 
@@ -45,7 +45,7 @@ What are some common mistakes?
 
 Improved design:
 
-![Improved Design](![alt text](https://github.com/bchris24/[p1.Chris.Brandt/blob/main/9_28_22, 11_24 PM Microsoft Lens?raw=true)
+![Improved Design](improved.png)
 
 Design improvements:
 
@@ -58,4 +58,4 @@ Design improvements:
 
 The screen size will be 6x4 inches.
 
-![](RackMultipart20221004-1-bvkvyw_html_641e1a3d28ade7c6.gif)
+![Inteface](interface.png)
