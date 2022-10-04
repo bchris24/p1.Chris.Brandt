@@ -6,7 +6,7 @@ Please use GitHub Pages to see webpage.
 
 Current layout:
 
-![Current Layout](Screenshot 2022-09-29 165654.png)
+![Current Layout]()
 
 Issues with the current design:
 
@@ -45,7 +45,7 @@ What are some common mistakes?
 
 Improved design:
 
-![](RackMultipart20221004-1-bvkvyw_html_82c88463cb4681a1.jpg)
+![Improved Design](https://imgur.io/zSNcPCZ)
 
 Design improvements:
 
