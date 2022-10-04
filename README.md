@@ -58,4 +58,4 @@ Design improvements:
 
 The screen size will be 6x4 inches.
 
-![Inteface](interface.png)
+![Interface](interface.gif)
